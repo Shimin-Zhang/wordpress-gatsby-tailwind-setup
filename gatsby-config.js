@@ -9,6 +9,7 @@ module.exports = {
         url: "http://localhost/blog/graphql",
       },
     },
-    `gatsby-plugin-sharp`,
+    "gatsby-plugin-sharp",
+    "gatsby-plugin-postcss"
   ],
 };
